@@ -11,6 +11,7 @@ This project for control of bike sharing at some big cities
 Focus on bike sharing at timing and station
 Improve documentation message 1st
 Improve documentation message 2nd
+Improve documentation message 3rd
 
 ### Files used
 Main file:
