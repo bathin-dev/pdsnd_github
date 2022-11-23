@@ -9,6 +9,7 @@ Bikeshare project (udacity)
 ### Description
 This project for control of bike sharing at some big cities
 Focus on bike sharing at timing and station
+Improve documentation message 1st
 
 ### Files used
 Main file:
